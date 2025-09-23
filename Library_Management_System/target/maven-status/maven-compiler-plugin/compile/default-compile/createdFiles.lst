@@ -1,8 +1,0 @@
-com\ujjawal\librarymanagementsystem\library_management_system\DBConnection.class
-com\ujjawal\librarymanagementsystem\library_management_system\BORROWDAO.class
-com\ujjawal\librarymanagementsystem\library_management_system\USERDAO.class
-com\ujjawal\librarymanagementsystem\library_management_system\Borrow.class
-com\ujjawal\librarymanagementsystem\library_management_system\BOOKDAO.class
-com\ujjawal\librarymanagementsystem\library_management_system\Book.class
-com\ujjawal\librarymanagementsystem\library_management_system\User.class
-com\ujjawal\librarymanagementsystem\library_management_system\Library_Management_System.class
